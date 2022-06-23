@@ -16,7 +16,7 @@ public class Map_foreach_Example{
 	
 	
 	
-//With using Lamda
+//Without using Lamda
 	for(Entry<Integer,Person> entry:map.entrySet()) {
 		
 System.out.println(entry.getKey());
